@@ -1,4 +1,4 @@
-# pipedrive_API_to_spreadsheet
+# Pipedrive_API_to_spreadsheet
 *A little system that uses Pipedrive's API to get all deals by products and save them as a excel file.*
 
 Hello Everyone!
