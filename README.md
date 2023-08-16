@@ -3,7 +3,7 @@
 
 Hello Everyone!
  
-I'm very new to this wolrd of coding, but since I found it, I fell in love haha.
+I'm very new to this world of coding, but since I found it, I fell in love haha.
 So, this is my first project that I made for Grecon America Latina as an intern and even being a little simple, I'm very proud of it!
 
 through this project I've learned the concepts of API callings, manipulating JSON data, reading/writing nested arrays and how to use libraries and plugins in a code.
